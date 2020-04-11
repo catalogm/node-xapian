@@ -1,7 +1,12 @@
 # node-xapian
 xapian bindings for node using n-api
 
-# Classes
+[[toc]]
+
+# Requirements
+You must have `xapian-core` installed.
+
+# Docs / Classes
 - Database
     - `Database()`
     - `Database(path: string, flags = 0)`

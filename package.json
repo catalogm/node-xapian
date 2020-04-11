@@ -1,6 +1,6 @@
 {
   "name": "xapian",
-  "version": "0.1.1",
+  "version": "0.0.1",
   "description": "xapian bindings for node using n-api",
   "main": "index.js",
   "scripts": {

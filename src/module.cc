@@ -2,7 +2,7 @@
 #include <napi.h>
 
 #include "constants.hh"
-#include "database.h"
+#include "database.hh"
 #include "document.hh"
 #include "enquire.hh"
 #include "mset.hh"

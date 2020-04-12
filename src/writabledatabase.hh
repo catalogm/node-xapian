@@ -3,7 +3,7 @@
 #include <napi.h>
 #include <xapian.h>
 
-#include "database.h"
+#include "database.hh"
 #include "document.hh"
 
 class WritableDatabase : public Napi::ObjectWrap<WritableDatabase>,

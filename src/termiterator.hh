@@ -2,8 +2,6 @@
 #include <napi.h>
 #include <xapian.h>
 
-#include <iostream>
-
 #include "exceptions.hh"
 
 class TermIterator : public Napi::ObjectWrap<TermIterator> {

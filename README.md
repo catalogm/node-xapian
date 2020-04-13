@@ -1,8 +1,6 @@
 # node-xapian
 xapian bindings for node using n-api
 
-[[toc]]
-
 # Requirements
 You must have `xapian-core` installed.
 
